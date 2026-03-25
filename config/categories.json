@@ -1,0 +1,89 @@
+{
+  "Food & Dining": {
+    "keywords": ["zomato", "swiggy", "restaurant", "cafe", "coffee", "pizza", "burger", "biryani",
+                 "dhaba", "hotel", "food", "eat", "kitchen", "mess", "canteen", "dominos", "kfc",
+                 "mcdonalds", "subway", "starbucks", "chaayos", "barbeque", "bakery", "halwai",
+                 "lassi", "juice", "snack", "tiffin", "dabba"],
+    "icon": "🍔",
+    "color": "#FF6B6B"
+  },
+  "Transport": {
+    "keywords": ["uber", "ola", "rapido", "auto", "cab", "taxi", "metro", "bus", "irctc", "train",
+                 "railway", "flight", "airline", "indigo", "spicejet", "air india", "petrol",
+                 "fuel", "diesel", "parking", "toll", "redbus", "makemytrip", "goibibo", "yatra",
+                 "blablacar", "namma", "bmtc", "dtc", "best bus"],
+    "icon": "🚗",
+    "color": "#4ECDC4"
+  },
+  "Shopping": {
+    "keywords": ["amazon", "flipkart", "myntra", "ajio", "meesho", "nykaa", "purplle", "shopsy",
+                 "blinkit", "zepto", "dunzo", "bigbasket", "dmart", "reliance", "jiomart",
+                 "snapdeal", "tata cliq", "croma", "vijay sales", "decathlon", "pantaloons",
+                 "westside", "max fashion", "h&m", "zara", "lifestyle"],
+    "icon": "🛍️",
+    "color": "#FFD93D"
+  },
+  "Groceries": {
+    "keywords": ["grocery", "vegetables", "fruits", "milk", "sabzi", "kirana", "provision",
+                 "supermarket", "fresh", "organic", "nature's basket", "more supermarket",
+                 "spencer", "nilgiris", "lulu", "heritage fresh"],
+    "icon": "🛒",
+    "color": "#6BCB77"
+  },
+  "Entertainment": {
+    "keywords": ["netflix", "prime", "hotstar", "disney", "spotify", "youtube", "gaana", "jio",
+                 "zee5", "sony", "bookmyshow", "pvr", "inox", "cinepolis", "game", "steam",
+                 "playstation", "xbox", "pubg", "bgmi", "gaming", "casino", "concert", "event"],
+    "icon": "🎬",
+    "color": "#C77DFF"
+  },
+  "Health & Medical": {
+    "keywords": ["pharmacy", "medical", "hospital", "clinic", "doctor", "apollo", "medplus",
+                 "1mg", "netmeds", "practo", "healthkart", "gym", "fitness", "cult", "yoga",
+                 "diagnostics", "lab", "test", "medicine", "pharma", "health", "wellness",
+                 "dentist", "eye care", "optician"],
+    "icon": "🏥",
+    "color": "#FF9F43"
+  },
+  "Education": {
+    "keywords": ["udemy", "coursera", "unacademy", "byju", "vedantu", "upgrad", "coursera",
+                 "school", "college", "university", "tuition", "coaching", "fees", "books",
+                 "stationery", "amazon kindle", "duolingo", "skillshare", "edx", "nptel"],
+    "icon": "📚",
+    "color": "#54A0FF"
+  },
+  "Bills & Utilities": {
+    "keywords": ["electricity", "water", "gas", "broadband", "wifi", "internet", "airtel",
+                 "jio", "vi", "vodafone", "bsnl", "idea", "recharge", "postpaid", "prepaid",
+                 "tata sky", "dish tv", "dth", "rent", "maintenance", "society", "cable",
+                 "act fibernet", "hathway"],
+    "icon": "⚡",
+    "color": "#F9CA24"
+  },
+  "Finance & Investment": {
+    "keywords": ["zerodha", "groww", "upstox", "ipo", "mutual fund", "sip", "insurance",
+                 "lic", "hdfc", "icici", "sbi", "axis", "kotak", "loan", "emi", "credit",
+                 "saving", "investment", "nps", "ppf", "fd", "rd", "stock", "trading",
+                 "coin", "paytm money", "et money"],
+    "icon": "💰",
+    "color": "#00D2D3"
+  },
+  "Transfers": {
+    "keywords": ["transfer", "sent to", "received from", "upi", "neft", "imps", "rtgs",
+                 "wallet", "paytm", "phonepe", "gpay", "bhim", "payment", "pay"],
+    "icon": "💸",
+    "color": "#A29BFE"
+  },
+  "Travel & Stays": {
+    "keywords": ["hotel", "oyo", "treebo", "fabhotel", "airbnb", "hostel", "resort",
+                 "holiday", "vacation", "trip", "travel", "tourism", "booking.com",
+                 "cleartrip", "makemytrip stay", "agoda", "trivago"],
+    "icon": "✈️",
+    "color": "#FD79A8"
+  },
+  "Others": {
+    "keywords": [],
+    "icon": "📦",
+    "color": "#B2BEC3"
+  }
+}

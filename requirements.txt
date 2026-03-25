@@ -1,0 +1,21 @@
+# Core
+streamlit==1.32.0
+pandas==2.2.1
+numpy==1.26.4
+plotly==5.20.0
+scipy==1.12.0
+python-dateutil==2.9.0
+openpyxl==3.1.2
+ 
+# Anomaly detection
+scikit-learn==1.4.1
+ 
+# Forecasting (ARIMA — lightweight, no Prophet complexity)
+statsmodels==0.14.1
+pmdarima==2.0.4
+ 
+# Fuzzy deduplication
+rapidfuzz==3.6.1
+ 
+# AI Advisor (free Groq API — no credit card needed)
+groq==0.9.0
