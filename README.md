@@ -1,66 +1,35 @@
 <div align="center">
 
-<!-- Animated Header Banner SVG -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=FinTrack%20AI&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=UPI%20Spend%20Analyzer%20%7C%20Behavioral%20Intelligence%20for%20Indian%20Payments&descAlignY=60&descSize=16" width="100%"/>
 
-<!-- Animated Logo -->
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6C63FF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4ECDC4;stop-opacity:1" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <circle cx="60" cy="60" r="55" fill="url(#logoGrad)" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="55;57;55" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <text x="50%" y="52%" text-anchor="middle" dominant-baseline="middle" font-size="42" font-family="Arial" fill="white">💸</text>
-  <circle cx="60" cy="60" r="55" fill="none" stroke="white" stroke-width="1.5" opacity="0.3">
-    <animate attributeName="r" values="55;65;55" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0;0.3" dur="3s" repeatCount="indefinite"/>
-  </circle>
-</svg>
-
 <br/>
 
-<!-- Title -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=UPI+Spend+Analyzer;Behavioral+Finance+Intelligence;AI-Powered+Money+Insights;Built+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=UPI+Spend+Analyzer;Behavioral+Finance+Intelligence;AI-Powered+Money+Insights;Built+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- Badges Row 1 -->
-<p>
-  <a href="https://fintrack-ai-upi-spend-analyzer.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Click%20Here-6C63FF?style=for-the-badge&logoColor=white" alt="Live Demo"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Groq-AI%20Powered-00A67E?style=for-the-badge&logo=groq&logoColor=white"/>
-</p>
+<a href="https://fintrack-ai-upi-spend-analyzer.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Click%20Here-6C63FF?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Groq-AI%20Powered-00A67E?style=for-the-badge&logoColor=white"/>
 
-<!-- Badges Row 2 -->
-<p>
-  <img src="https://img.shields.io/badge/Status-Live%20%26%20Running-4ECDC4?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Made%20for-India%20🇮🇳-FF9933?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/UPI%20Apps-GPay%20|%20PhonePe%20|%20Paytm-6C63FF?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Privacy-100%%20Local-green?style=for-the-badge&logo=shield&logoColor=white"/>
-</p>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/Status-Live%20%26%20Running-4ECDC4?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Made%20for-India%20🇮🇳-FF9933?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/UPI%20Apps-GPay%20|%20PhonePe%20|%20Paytm-6C63FF?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Privacy-100%%20Local-green?style=for-the-badge"/>
 
-<!-- Animated Divider -->
+<br/><br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
@@ -71,18 +40,15 @@
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| [🚀 **Live Demo**](https://fintrack-ai-upi-spend-analyzer.streamlit.app/) | [🏗️ Architecture](#-system-architecture) |
-| [❓ Problem Statement](#-problem-statement) | [💡 Solution](#-solution) |
-| [✨ Features](#-features) | [🛠️ Tech Stack](#%EF%B8%8F-tech-stack) |
-| [⚡ Quick Start](#-quick-start) | [📁 File Structure](#-file-structure) |
+| 🚀 [Live Demo](https://fintrack-ai-upi-spend-analyzer.streamlit.app/) | ❓ [Problem Statement](#-problem-statement) | 💡 [Solution](#-solution) |
+|:---:|:---:|:---:|
+| 🏗️ [Architecture](#-system-architecture) | ✨ [Features](#-features) | 🛠️ [Tech Stack](#%EF%B8%8F-tech-stack) |
+| ⚡ [Quick Start](#-quick-start) | 📁 [File Structure](#-file-structure) | 🗺️ [Roadmap](#%EF%B8%8F-roadmap) |
 
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -91,433 +57,294 @@
 
 <div align="center">
 
-<!-- Problem Statement SVG Diagram — click it to read this section -->
-<a href="#-problem-statement">
-<svg width="860" height="340" viewBox="0 0 860 340" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
-  <defs>
-    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0f1a"/>
-      <stop offset="100%" style="stop-color:#1a1a2e"/>
-    </linearGradient>
-    <linearGradient id="card1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a1a2e"/>
-      <stop offset="100%" style="stop-color:#16213e"/>
-    </linearGradient>
-    <linearGradient id="accent1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF6B6B"/>
-      <stop offset="100%" style="stop-color:#FFD93D"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background -->
-  <rect width="860" height="340" rx="16" fill="url(#bg1)"/>
-  <rect width="860" height="3" rx="2" fill="url(#accent1)" y="0"/>
-
-  <!-- Title -->
-  <text x="430" y="44" text-anchor="middle" fill="#E0E0F0" font-size="20" font-weight="bold">🚨 The Problem with Digital Payments in India</text>
-
-  <!-- Card 1 -->
-  <rect x="30" y="70" width="180" height="120" rx="12" fill="url(#card1)" stroke="#FF6B6B" stroke-width="1.5"/>
-  <text x="120" y="100" text-anchor="middle" fill="#FF6B6B" font-size="26">🌑</text>
-  <text x="120" y="124" text-anchor="middle" fill="#E0E0F0" font-size="12" font-weight="bold">Zero Visibility</text>
-  <text x="120" y="142" text-anchor="middle" fill="#8A8AB0" font-size="10">People tap UPI 30-50x</text>
-  <text x="120" y="157" text-anchor="middle" fill="#8A8AB0" font-size="10">a month but have no</text>
-  <text x="120" y="172" text-anchor="middle" fill="#8A8AB0" font-size="10">idea where it went</text>
-
-  <!-- Card 2 -->
-  <rect x="230" y="70" width="180" height="120" rx="12" fill="url(#card1)" stroke="#FFD93D" stroke-width="1.5"/>
-  <text x="320" y="100" text-anchor="middle" fill="#FFD93D" font-size="26">🔀</text>
-  <text x="320" y="124" text-anchor="middle" fill="#E0E0F0" font-size="12" font-weight="bold">Multi-App Chaos</text>
-  <text x="320" y="142" text-anchor="middle" fill="#8A8AB0" font-size="10">GPay + PhonePe +</text>
-  <text x="320" y="157" text-anchor="middle" fill="#8A8AB0" font-size="10">Paytm = duplicate</text>
-  <text x="320" y="172" text-anchor="middle" fill="#8A8AB0" font-size="10">and messy records</text>
-
-  <!-- Card 3 -->
-  <rect x="430" y="70" width="180" height="120" rx="12" fill="url(#card1)" stroke="#FF9F43" stroke-width="1.5"/>
-  <text x="520" y="100" text-anchor="middle" fill="#FF9F43" font-size="26">📉</text>
-  <text x="520" y="124" text-anchor="middle" fill="#E0E0F0" font-size="12" font-weight="bold">No Early Warnings</text>
-  <text x="520" y="142" text-anchor="middle" fill="#8A8AB0" font-size="10">Nobody knows they</text>
-  <text x="520" y="157" text-anchor="middle" fill="#8A8AB0" font-size="10">overspent until the</text>
-  <text x="520" y="172" text-anchor="middle" fill="#8A8AB0" font-size="10">month is already over</text>
-
-  <!-- Card 4 -->
-  <rect x="630" y="70" width="200" height="120" rx="12" fill="url(#card1)" stroke="#A29BFE" stroke-width="1.5"/>
-  <text x="730" y="100" text-anchor="middle" fill="#A29BFE" font-size="26">🧾</text>
-  <text x="730" y="124" text-anchor="middle" fill="#E0E0F0" font-size="12" font-weight="bold">Subscription Leaks</text>
-  <text x="730" y="142" text-anchor="middle" fill="#8A8AB0" font-size="10">₹3,000–₹8,000/year</text>
-  <text x="730" y="157" text-anchor="middle" fill="#8A8AB0" font-size="10">silently drained by</text>
-  <text x="730" y="172" text-anchor="middle" fill="#8A8AB0" font-size="10">forgotten subscriptions</text>
-
-  <!-- Bottom stat bar -->
-  <rect x="30" y="218" width="800" height="60" rx="10" fill="#1a1a2e" stroke="rgba(108,99,255,0.3)" stroke-width="1"/>
-  <text x="430" y="244" text-anchor="middle" fill="#8A8AB0" font-size="11">📊 The Scale of the Problem</text>
-  <text x="160" y="265" text-anchor="middle" fill="#6C63FF" font-size="13" font-weight="bold">500M+ UPI users</text>
-  <text x="160" y="280" text-anchor="middle" fill="#8A8AB0" font-size="10">in India today</text>
-  <text x="360" y="265" text-anchor="middle" fill="#FF6B6B" font-size="13" font-weight="bold">₹6L+ Crore/month</text>
-  <text x="360" y="280" text-anchor="middle" fill="#8A8AB0" font-size="10">transacted via UPI</text>
-  <text x="560" y="265" text-anchor="middle" fill="#FFD93D" font-size="13" font-weight="bold">&lt;5% users</text>
-  <text x="560" y="280" text-anchor="middle" fill="#8A8AB0" font-size="10">track spending actively</text>
-  <text x="730" y="265" text-anchor="middle" fill="#4ECDC4" font-size="13" font-weight="bold">₹0 solutions</text>
-  <text x="730" y="280" text-anchor="middle" fill="#8A8AB0" font-size="10">built for this gap</text>
-
-  <!-- Footer note -->
-  <text x="430" y="318" text-anchor="middle" fill="rgba(108,99,255,0.6)" font-size="10">↑ Click to learn more about the problem</text>
-</svg>
-</a>
+```
+India has 500M+ UPI users conducting billions of transactions monthly.
+Yet there is ZERO native tooling to understand where digital money goes.
+```
 
 </div>
 
-<br/>
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#1a1a2e', 'primaryTextColor': '#E0E0F0', 'primaryBorderColor': '#FF6B6B', 'lineColor': '#6C63FF', 'secondaryColor': '#16213e', 'tertiaryColor': '#0f0f1a', 'background': '#0f0f1a', 'mainBkg': '#1a1a2e', 'nodeBorder': '#6C63FF', 'clusterBkg': '#16213e', 'titleColor': '#E0E0F0', 'edgeLabelBackground': '#1a1a2e', 'fontFamily': 'monospace'}}}%%
+flowchart LR
+    subgraph PAIN ["🚨 The Pain Points"]
+        direction TB
+        A["🌑 Zero Visibility\nPeople tap UPI 30–50x/month\nbut can't track spending"]
+        B["🔀 Multi-App Chaos\nGPay + PhonePe + Paytm\n= duplicate messy records"]
+        C["📉 No Early Warnings\nOverspending discovered\nonly after month ends"]
+        D["🧾 Subscription Leaks\n₹3,000–₹8,000/year\nsilently drained"]
+        E["📊 No Benchmarks\nNo way to know if\nyour spend is normal"]
+    end
 
-> India has **500 million+ UPI users** conducting billions of transactions monthly across Google Pay, PhonePe, Paytm, and BHIM. Yet there is **zero native tooling** that helps the average person understand where their digital money actually goes.
+    subgraph SCALE ["📈 Scale of Problem"]
+        direction TB
+        F["500M+\nUPI Users"]
+        G["₹6L Crore\nMonthly UPI Volume"]
+        H["< 5% Users\nTrack Spending"]
+        I["₹0 Solutions\nBuilt for This Gap"]
+    end
+
+    PAIN --> SCALE
+
+    style A fill:#2d1a1a,stroke:#FF6B6B,color:#FF9999
+    style B fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style C fill:#1a2d1a,stroke:#FF9F43,color:#FFB673
+    style D fill:#1a1a2d,stroke:#A29BFE,color:#C4C0FF
+    style E fill:#2d1a2d,stroke:#FF6B6B,color:#FF9999
+    style F fill:#1a1a2e,stroke:#6C63FF,color:#6C63FF
+    style G fill:#1a1a2e,stroke:#4ECDC4,color:#4ECDC4
+    style H fill:#1a1a2e,stroke:#FF6B6B,color:#FF6B6B
+    style I fill:#1a1a2e,stroke:#FFD93D,color:#FFD93D
+    style PAIN fill:#0f0f1a,stroke:#FF6B6B,stroke-width:2px,color:#E0E0F0
+    style SCALE fill:#0f0f1a,stroke:#6C63FF,stroke-width:2px,color:#E0E0F0
+```
 
 **The core problems are:**
 
-- 🌑 **Invisible spending** — UPI makes paying frictionless, which also makes *overspending* frictionless. There's no moment of reflection.
-- 🔀 **Multi-app fragmentation** — A single person uses 2–3 UPI apps simultaneously, creating duplicate records and an impossible-to-reconcile picture.
-- 📊 **No behavioral intelligence** — Banks show raw transaction lists. Nobody shows you *patterns*, *anomalies*, or *peer comparisons*.
-- 🧾 **Subscription blindness** — Recurring charges (Netflix, Spotify, gym, Jio) accumulate silently. Most users can't name all their active subscriptions.
-- 📉 **Reactive, not proactive** — People discover they've overspent only after the month ends. There's no early-warning system.
-- 🏦 **No benchmarking** — There's no way to know if your ₹8,000/month food spend is high or low for someone in your city with your income.
+| # | Problem | Impact |
+|---|---------|--------|
+| 🌑 | **Invisible spending** — UPI removes friction from paying, also from overspending | No moment of reflection before or after a transaction |
+| 🔀 | **Multi-app fragmentation** — 2–3 UPI apps per person, impossible to reconcile | Duplicate entries inflate real spending figures |
+| 📊 | **No behavioral intelligence** — Banks show raw lists, not patterns | Users never discover their own spending personality |
+| 🧾 | **Subscription blindness** — Recurring charges accumulate silently | Most users can't name all active subscriptions |
+| 📉 | **Reactive, not proactive** — No early-warning system exists | Budget awareness comes only after damage is done |
+| 🏦 | **No benchmarking** — Can't compare your ₹8,000/month food spend to peers | No context to know if you're disciplined or excessive |
 
 <br/>
 
 ## 💡 Solution
 
-<div align="center">
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#1a1a2e', 'primaryTextColor': '#E0E0F0', 'primaryBorderColor': '#6C63FF', 'lineColor': '#4ECDC4', 'secondaryColor': '#16213e', 'tertiaryColor': '#0f0f1a', 'background': '#0f0f1a', 'mainBkg': '#1a1a2e', 'nodeBorder': '#4ECDC4', 'clusterBkg': '#16213e', 'titleColor': '#E0E0F0', 'edgeLabelBackground': '#1a1a2e', 'fontFamily': 'monospace'}}}%%
+flowchart TD
+    TITLE(["💸 FinTrack AI\nComplete UPI Intelligence Platform"])
 
-<a href="#-solution">
-<svg width="860" height="380" viewBox="0 0 860 380" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
-  <defs>
-    <linearGradient id="solBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0f1a"/>
-      <stop offset="100%" style="stop-color:#1a1a2e"/>
-    </linearGradient>
-    <linearGradient id="solAccent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6C63FF"/>
-      <stop offset="100%" style="stop-color:#4ECDC4"/>
-    </linearGradient>
-  </defs>
+    subgraph SOLUTION ["✅ What FinTrack AI Solves"]
+        direction LR
+        S1["🎯 Budget Tracker\nLive burn-rate +\nbreach projection"]
+        S2["🔮 Spend Forecast\nARIMA/ETS with\nconfidence bands"]
+        S3["🏦 Multi-Account\nMerge + deduplicate\nacross all apps"]
+        S4["🔍 Anomaly Alerts\n6 detection methods\nZ-score · IQR · more"]
+        S5["🤖 AI Advisor\nFree Groq API\nLlama 3.3 70B chat"]
+        S6["📈 Peer Benchmarks\nIndia city-tier\ncomparison engine"]
+    end
 
-  <rect width="860" height="380" rx="16" fill="url(#solBg)"/>
-  <rect width="860" height="3" rx="2" fill="url(#solAccent)"/>
+    TITLE --> SOLUTION
 
-  <text x="430" y="44" text-anchor="middle" fill="#E0E0F0" font-size="20" font-weight="bold">✅ FinTrack AI — The Complete Solution</text>
+    style TITLE fill:#6C63FF,stroke:#4ECDC4,stroke-width:3px,color:#fff,font-size:16px
+    style S1 fill:#1a2d1a,stroke:#4ECDC4,color:#4ECDC4
+    style S2 fill:#1a1a2d,stroke:#6C63FF,color:#A29BFE
+    style S3 fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style S4 fill:#2d1a1a,stroke:#FF6B6B,color:#FF9999
+    style S5 fill:#1a2d1a,stroke:#00A67E,color:#00D4A0
+    style S6 fill:#2d1a2d,stroke:#FF9F43,color:#FFB673
+    style SOLUTION fill:#0f0f1a,stroke:#4ECDC4,stroke-width:2px,color:#E0E0F0
+```
 
-  <!-- Flow: Upload → Parse → Deduplicate → Categorize → Analyze → Insights -->
-  <!-- Step 1 -->
-  <rect x="30" y="70" width="110" height="70" rx="10" fill="#1a1a2e" stroke="#6C63FF" stroke-width="2"/>
-  <text x="85" y="100" text-anchor="middle" fill="#6C63FF" font-size="22">📤</text>
-  <text x="85" y="120" text-anchor="middle" fill="#E0E0F0" font-size="10" font-weight="bold">Upload CSV</text>
-  <text x="85" y="134" text-anchor="middle" fill="#8A8AB0" font-size="9">Any UPI app</text>
-
-  <!-- Arrow -->
-  <line x1="140" y1="105" x2="165" y2="105" stroke="#6C63FF" stroke-width="2"/>
-  <polygon points="165,100 175,105 165,110" fill="#6C63FF"/>
-
-  <!-- Step 2 -->
-  <rect x="175" y="70" width="110" height="70" rx="10" fill="#1a1a2e" stroke="#4ECDC4" stroke-width="2"/>
-  <text x="230" y="100" text-anchor="middle" fill="#4ECDC4" font-size="22">🔍</text>
-  <text x="230" y="120" text-anchor="middle" fill="#E0E0F0" font-size="10" font-weight="bold">Smart Parse</text>
-  <text x="230" y="134" text-anchor="middle" fill="#8A8AB0" font-size="9">Auto-normalize</text>
-
-  <!-- Arrow -->
-  <line x1="285" y1="105" x2="310" y2="105" stroke="#4ECDC4" stroke-width="2"/>
-  <polygon points="310,100 320,105 310,110" fill="#4ECDC4"/>
-
-  <!-- Step 3 -->
-  <rect x="320" y="70" width="110" height="70" rx="10" fill="#1a1a2e" stroke="#FFD93D" stroke-width="2"/>
-  <text x="375" y="100" text-anchor="middle" fill="#FFD93D" font-size="22">🔁</text>
-  <text x="375" y="120" text-anchor="middle" fill="#E0E0F0" font-size="10" font-weight="bold">Dedup Engine</text>
-  <text x="375" y="134" text-anchor="middle" fill="#8A8AB0" font-size="9">Fuzzy matching</text>
-
-  <!-- Arrow -->
-  <line x1="430" y1="105" x2="455" y2="105" stroke="#FFD93D" stroke-width="2"/>
-  <polygon points="455,100 465,105 455,110" fill="#FFD93D"/>
-
-  <!-- Step 4 -->
-  <rect x="465" y="70" width="110" height="70" rx="10" fill="#1a1a2e" stroke="#FF9F43" stroke-width="2"/>
-  <text x="520" y="100" text-anchor="middle" fill="#FF9F43" font-size="22">🏷️</text>
-  <text x="520" y="120" text-anchor="middle" fill="#E0E0F0" font-size="10" font-weight="bold">Categorize</text>
-  <text x="520" y="134" text-anchor="middle" fill="#8A8AB0" font-size="9">12 categories</text>
-
-  <!-- Arrow -->
-  <line x1="575" y1="105" x2="600" y2="105" stroke="#FF9F43" stroke-width="2"/>
-  <polygon points="600,100 610,105 600,110" fill="#FF9F43"/>
-
-  <!-- Step 5 -->
-  <rect x="610" y="70" width="110" height="70" rx="10" fill="#1a1a2e" stroke="#FF6B6B" stroke-width="2"/>
-  <text x="665" y="100" text-anchor="middle" fill="#FF6B6B" font-size="22">🤖</text>
-  <text x="665" y="120" text-anchor="middle" fill="#E0E0F0" font-size="10" font-weight="bold">AI Insights</text>
-  <text x="665" y="134" text-anchor="middle" fill="#8A8AB0" font-size="9">Groq + Llama 3</text>
-
-  <!-- Arrow -->
-  <line x1="720" y1="105" x2="745" y2="105" stroke="#FF6B6B" stroke-width="2"/>
-  <polygon points="745,100 755,105 745,110" fill="#FF6B6B"/>
-
-  <!-- Step 6 -->
-  <rect x="755" y="70" width="80" height="70" rx="10" fill="#1a1a2e" stroke="#A29BFE" stroke-width="2"/>
-  <text x="795" y="100" text-anchor="middle" fill="#A29BFE" font-size="22">📊</text>
-  <text x="795" y="120" text-anchor="middle" fill="#E0E0F0" font-size="10" font-weight="bold">Dashboard</text>
-  <text x="795" y="134" text-anchor="middle" fill="#8A8AB0" font-size="9">10 pages</text>
-
-  <!-- Solution Grid -->
-  <text x="430" y="180" text-anchor="middle" fill="#8A8AB0" font-size="11">What FinTrack AI gives you</text>
-
-  <!-- Row 1 -->
-  <rect x="30" y="192" width="185" height="52" rx="8" fill="#1a1a2e" stroke="rgba(108,99,255,0.3)" stroke-width="1"/>
-  <text x="50" y="215" fill="#6C63FF" font-size="14">🎯</text>
-  <text x="72" y="215" fill="#E0E0F0" font-size="11" font-weight="bold">Budget Tracker</text>
-  <text x="50" y="233" fill="#8A8AB0" font-size="9">Live burn-rate &amp; breach projection</text>
-
-  <rect x="228" y="192" width="185" height="52" rx="8" fill="#1a1a2e" stroke="rgba(78,205,196,0.3)" stroke-width="1"/>
-  <text x="248" y="215" fill="#4ECDC4" font-size="14">🔮</text>
-  <text x="270" y="215" fill="#E0E0F0" font-size="11" font-weight="bold">Spend Forecast</text>
-  <text x="248" y="233" fill="#8A8AB0" font-size="9">ARIMA/ETS with confidence bands</text>
-
-  <rect x="426" y="192" width="185" height="52" rx="8" fill="#1a1a2e" stroke="rgba(255,217,61,0.3)" stroke-width="1"/>
-  <text x="446" y="215" fill="#FFD93D" font-size="14">🏦</text>
-  <text x="468" y="215" fill="#E0E0F0" font-size="11" font-weight="bold">Multi-Account</text>
-  <text x="446" y="233" fill="#8A8AB0" font-size="9">Merge + deduplicate across apps</text>
-
-  <rect x="624" y="192" width="206" height="52" rx="8" fill="#1a1a2e" stroke="rgba(255,107,107,0.3)" stroke-width="1"/>
-  <text x="644" y="215" fill="#FF6B6B" font-size="14">🔍</text>
-  <text x="666" y="215" fill="#E0E0F0" font-size="11" font-weight="bold">Anomaly Detection</text>
-  <text x="644" y="233" fill="#8A8AB0" font-size="9">Z-score + IQR + 4 other detectors</text>
-
-  <!-- Row 2 -->
-  <rect x="30" y="257" width="185" height="52" rx="8" fill="#1a1a2e" stroke="rgba(162,155,254,0.3)" stroke-width="1"/>
-  <text x="50" y="280" fill="#A29BFE" font-size="14">🤖</text>
-  <text x="72" y="280" fill="#E0E0F0" font-size="11" font-weight="bold">AI Chat Advisor</text>
-  <text x="50" y="298" fill="#8A8AB0" font-size="9">Free Groq API — Llama 3.3 70B</text>
-
-  <rect x="228" y="257" width="185" height="52" rx="8" fill="#1a1a2e" stroke="rgba(78,205,196,0.3)" stroke-width="1"/>
-  <text x="248" y="280" fill="#4ECDC4" font-size="14">📈</text>
-  <text x="270" y="280" fill="#E0E0F0" font-size="11" font-weight="bold">Peer Benchmarks</text>
-  <text x="248" y="298" fill="#8A8AB0" font-size="9">Compare vs India city-tier peers</text>
-
-  <rect x="426" y="257" width="185" height="52" rx="8" fill="#1a1a2e" stroke="rgba(255,159,67,0.3)" stroke-width="1"/>
-  <text x="446" y="280" fill="#FF9F43" font-size="14">🧠</text>
-  <text x="468" y="280" fill="#E0E0F0" font-size="11" font-weight="bold">Behavioral Nudges</text>
-  <text x="446" y="298" fill="#8A8AB0" font-size="9">Subscriptions, guilt merchant, MoM</text>
-
-  <rect x="624" y="257" width="206" height="52" rx="8" fill="#1a1a2e" stroke="rgba(107,203,119,0.3)" stroke-width="1"/>
-  <text x="644" y="280" fill="#6BCB77" font-size="14">🔒</text>
-  <text x="666" y="280" fill="#E0E0F0" font-size="11" font-weight="bold">100% Private</text>
-  <text x="644" y="298" fill="#8A8AB0" font-size="9">All processing is local, zero upload</text>
-
-  <!-- Bottom -->
-  <text x="430" y="348" text-anchor="middle" fill="rgba(108,99,255,0.7)" font-size="11">🌐 Live at → fintrack-ai-upi-spend-analyzer.streamlit.app</text>
-  <text x="430" y="368" text-anchor="middle" fill="rgba(108,99,255,0.4)" font-size="9">↑ Click to jump to this section</text>
-</svg>
-</a>
-
-</div>
-
-<br/>
-
-FinTrack AI is a **fully local, open-source Streamlit dashboard** that transforms raw UPI CSV exports into actionable financial intelligence. It works with every major UPI app, requires no backend server, sends no raw data anywhere, and gives you a fintech-grade analysis experience for free.
+FinTrack AI is a **fully local, open-source Streamlit dashboard** that transforms raw UPI CSV exports into actionable financial intelligence. Works with every major UPI app, requires no backend server, sends no raw data anywhere, and gives you fintech-grade analysis — completely free.
 
 <br/>
 
 ## 🏗️ System Architecture
 
-<div align="center">
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#1a1a2e', 'primaryTextColor': '#E0E0F0', 'primaryBorderColor': '#6C63FF', 'lineColor': '#6C63FF', 'secondaryColor': '#16213e', 'tertiaryColor': '#0f0f1a', 'background': '#0f0f1a', 'mainBkg': '#1a1a2e', 'clusterBkg': '#111128', 'titleColor': '#E0E0F0', 'edgeLabelBackground': '#1a1a2e', 'fontFamily': 'monospace'}}}%%
+flowchart TD
+    subgraph INPUT ["📤 Layer 1 — Data Ingestion"]
+        direction LR
+        GP["📱 Google Pay\nCSV Export"]
+        PP["📲 PhonePe\nCSV Export"]
+        PT["💳 Paytm\nCSV Export"]
+        BH["🏦 BHIM / Bank\nCSV Export"]
+        EX["➕ Extra Accounts\nMulti-upload sidebar"]
+    end
 
-<a href="#-problem-statement">
-<svg width="860" height="560" viewBox="0 0 860 560" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
-  <defs>
-    <linearGradient id="archBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a14"/>
-      <stop offset="100%" style="stop-color:#111128"/>
-    </linearGradient>
-    <linearGradient id="archTop" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6C63FF"/>
-      <stop offset="50%" style="stop-color:#4ECDC4"/>
-      <stop offset="100%" style="stop-color:#FF6B6B"/>
-    </linearGradient>
-    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L8,3 z" fill="#6C63FF"/>
-    </marker>
-    <marker id="arrowTeal" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L8,3 z" fill="#4ECDC4"/>
-    </marker>
-    <marker id="arrowRed" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L8,3 z" fill="#FF6B6B"/>
-    </marker>
-    <marker id="arrowYellow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L8,3 z" fill="#FFD93D"/>
-    </marker>
-  </defs>
+    subgraph PIPELINE ["⚙️ Layer 2 — Processing Pipeline"]
+        direction LR
+        PA["📄 parser.py\n11 date formats\n4 UPI format maps\nAuto column detection"]
+        DD["🔁 deduplicator.py\nFuzzy match RapidFuzz\nAmount ±₹1 · Date ±1 day\nScore threshold ≥72"]
+        CA["🏷️ categorizer.py\nKeyword reverse index\n12 categories\n300+ keywords"]
+        AN["🔍 anomaly_detector.py\nZ-Score · IQR · Odd Hour\nRound Num · New Merchant\nFrequency Spike"]
+    end
 
-  <!-- Background -->
-  <rect width="860" height="560" rx="18" fill="url(#archBg)"/>
-  <rect y="0" width="860" height="4" rx="2" fill="url(#archTop)"/>
+    subgraph ANALYTICS ["🧠 Layer 3 — Analytics Engines"]
+        direction LR
+        IN["📊 insights.py\nMoM trend\nSubscriptions\nSavings · Velocity\nBehavioral nudges"]
+        BT["🎯 budget_tracker.py\nBurn rate calc\nEOM projection\nBreach alerts\nStatus labeling"]
+        FC["🔮 forecaster.py\nAuto-ARIMA\nHolt-Winters ETS\nLinear fallback\n80% confidence bands"]
+        BM["📈 benchmarks.py\nTier 1/2/3 data\nLow/Mid/High bracket\nRatio vs peers\nSavings benchmark"]
+        AI["🤖 ai_advisor.py\nGroq API\nLlama 3.3 70B\nMulti-turn chat\nContext injection"]
+    end
 
-  <!-- Title -->
-  <text x="430" y="36" text-anchor="middle" fill="#E0E0F0" font-size="18" font-weight="bold">FinTrack AI — System Architecture</text>
-  <text x="430" y="54" text-anchor="middle" fill="#8A8AB0" font-size="11">Click to jump to Problem Statement ↑</text>
+    subgraph CHARTS ["📊 Layer 4 — Visualization"]
+        direction LR
+        CH["📉 charts.py\n8 Plotly builders\nDark theme\nCategory donut\nAnomaly scatter\nCalendar heatmap\nSavings gauge"]
+    end
 
-  <!-- ═══ LAYER 1: INPUT ═══ -->
-  <rect x="20" y="72" width="820" height="22" rx="6" fill="rgba(108,99,255,0.1)" stroke="rgba(108,99,255,0.2)" stroke-width="1"/>
-  <text x="430" y="87" text-anchor="middle" fill="#6C63FF" font-size="11" font-weight="bold">LAYER 1 — DATA INGESTION</text>
+    subgraph DASHBOARD ["🖥️ Layer 5 — 10-Page Streamlit Dashboard  (app.py)"]
+        direction LR
+        P1["📊 Overview"]
+        P2["🏷️ Categories"]
+        P3["🔍 Anomalies"]
+        P4["🧠 Insights"]
+        P5["🎯 Budget"]
+        P6["🔮 Forecast"]
+        P7["🏦 Multi-Acct"]
+        P8["🤖 AI Advisor"]
+        P9["📈 Benchmarks"]
+        P10["📋 Transactions"]
+    end
 
-  <!-- Input boxes -->
-  <rect x="30" y="104" width="110" height="50" rx="8" fill="#1a1a2e" stroke="#6C63FF" stroke-width="1.5"/>
-  <text x="85" y="126" text-anchor="middle" fill="#6C63FF" font-size="18">📱</text>
-  <text x="85" y="146" text-anchor="middle" fill="#E0E0F0" font-size="10">Google Pay</text>
+    INPUT --> PIPELINE
+    PA --> DD --> CA --> AN
+    PIPELINE --> ANALYTICS
+    ANALYTICS --> CHARTS
+    CHARTS --> DASHBOARD
 
-  <rect x="158" y="104" width="110" height="50" rx="8" fill="#1a1a2e" stroke="#6C63FF" stroke-width="1.5"/>
-  <text x="213" y="126" text-anchor="middle" fill="#6C63FF" font-size="18">📲</text>
-  <text x="213" y="146" text-anchor="middle" fill="#E0E0F0" font-size="10">PhonePe</text>
+    style GP fill:#1a1a2e,stroke:#6C63FF,color:#A29BFE
+    style PP fill:#1a1a2e,stroke:#6C63FF,color:#A29BFE
+    style PT fill:#1a1a2e,stroke:#6C63FF,color:#A29BFE
+    style BH fill:#1a1a2e,stroke:#6C63FF,color:#A29BFE
+    style EX fill:#16213e,stroke:#6C63FF,color:#6C63FF,stroke-dasharray:5
 
-  <rect x="286" y="104" width="110" height="50" rx="8" fill="#1a1a2e" stroke="#6C63FF" stroke-width="1.5"/>
-  <text x="341" y="126" text-anchor="middle" fill="#6C63FF" font-size="18">💳</text>
-  <text x="341" y="146" text-anchor="middle" fill="#E0E0F0" font-size="10">Paytm</text>
+    style PA fill:#1a2d1a,stroke:#4ECDC4,color:#4ECDC4
+    style DD fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style CA fill:#2d1f1a,stroke:#FF9F43,color:#FFB673
+    style AN fill:#2d1a1a,stroke:#FF6B6B,color:#FF9999
 
-  <rect x="414" y="104" width="110" height="50" rx="8" fill="#1a1a2e" stroke="#6C63FF" stroke-width="1.5"/>
-  <text x="469" y="126" text-anchor="middle" fill="#6C63FF" font-size="18">🏦</text>
-  <text x="469" y="146" text-anchor="middle" fill="#E0E0F0" font-size="10">BHIM / Bank</text>
+    style IN fill:#1a1a2e,stroke:#A29BFE,color:#C4C0FF
+    style BT fill:#1a2d1a,stroke:#4ECDC4,color:#4ECDC4
+    style FC fill:#1a1a2d,stroke:#6C63FF,color:#A29BFE
+    style BM fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style AI fill:#1a2d22,stroke:#00A67E,color:#00D4A0
 
-  <rect x="542" y="104" width="120" height="50" rx="8" fill="#1a1a2e" stroke="#6C63FF" stroke-width="1.5"/>
-  <text x="602" y="126" text-anchor="middle" fill="#6C63FF" font-size="18">📄</text>
-  <text x="602" y="146" text-anchor="middle" fill="#E0E0F0" font-size="10">Any Bank CSV</text>
+    style CH fill:#16213e,stroke:#FF9F43,color:#FFB673
 
-  <!-- Multi-account label -->
-  <rect x="680" y="104" width="160" height="50" rx="8" fill="rgba(108,99,255,0.15)" stroke="#6C63FF" stroke-width="1" stroke-dasharray="4,2"/>
-  <text x="760" y="122" text-anchor="middle" fill="#8A8AB0" font-size="9">Multi-account upload</text>
-  <text x="760" y="138" text-anchor="middle" fill="#6C63FF" font-size="10" font-weight="bold">+ Extra CSVs</text>
-  <text x="760" y="150" text-anchor="middle" fill="#8A8AB0" font-size="9">sidebar uploader</text>
+    style P1 fill:#1a1a2e,stroke:#6C63FF,color:#A29BFE
+    style P2 fill:#1a2d1a,stroke:#4ECDC4,color:#4ECDC4
+    style P3 fill:#2d1a1a,stroke:#FF6B6B,color:#FF9999
+    style P4 fill:#2d1f1a,stroke:#FF9F43,color:#FFB673
+    style P5 fill:#1a2d22,stroke:#00A67E,color:#00D4A0
+    style P6 fill:#1a1a2d,stroke:#A29BFE,color:#C4C0FF
+    style P7 fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style P8 fill:#1a2d22,stroke:#00A67E,color:#00D4A0
+    style P9 fill:#2d1a2d,stroke:#FF6B6B,color:#FF9999
+    style P10 fill:#1a1a2e,stroke:#6C63FF,color:#A29BFE
 
-  <!-- ═══ LAYER 2: PROCESSING PIPELINE ═══ -->
-  <!-- Arrows down to parser -->
-  <line x1="430" y1="154" x2="430" y2="175" stroke="#6C63FF" stroke-width="1.5" marker-end="url(#arrowBlue)"/>
+    style INPUT fill:#0a0a18,stroke:#6C63FF,stroke-width:2px,color:#E0E0F0
+    style PIPELINE fill:#0a0a18,stroke:#4ECDC4,stroke-width:2px,color:#E0E0F0
+    style ANALYTICS fill:#0a0a18,stroke:#FF9F43,stroke-width:2px,color:#E0E0F0
+    style CHARTS fill:#0a0a18,stroke:#FF6B6B,stroke-width:2px,color:#E0E0F0
+    style DASHBOARD fill:#0a0a18,stroke:#A29BFE,stroke-width:2px,color:#E0E0F0
+```
 
-  <rect x="20" y="184" width="820" height="22" rx="6" fill="rgba(78,205,196,0.1)" stroke="rgba(78,205,196,0.2)" stroke-width="1"/>
-  <text x="430" y="199" text-anchor="middle" fill="#4ECDC4" font-size="11" font-weight="bold">LAYER 2 — PROCESSING PIPELINE (modules/)</text>
+<br/>
 
-  <!-- Parser -->
-  <rect x="60" y="216" width="150" height="55" rx="10" fill="#1a1a2e" stroke="#4ECDC4" stroke-width="2"/>
-  <text x="135" y="240" text-anchor="middle" fill="#4ECDC4" font-size="13" font-weight="bold">parser.py</text>
-  <text x="135" y="257" text-anchor="middle" fill="#8A8AB0" font-size="9">Normalize any CSV format</text>
-  <text x="135" y="269" text-anchor="middle" fill="#8A8AB0" font-size="9">11 date formats handled</text>
+### 🔄 Module Interaction Map
 
-  <!-- Arrow -->
-  <line x1="210" y1="244" x2="240" y2="244" stroke="#4ECDC4" stroke-width="1.5" marker-end="url(#arrowTeal)"/>
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#1a1a2e', 'primaryTextColor': '#E0E0F0', 'primaryBorderColor': '#6C63FF', 'lineColor': '#4ECDC4', 'background': '#0f0f1a', 'mainBkg': '#1a1a2e', 'clusterBkg': '#111128', 'titleColor': '#E0E0F0', 'edgeLabelBackground': '#1a1a2e', 'fontFamily': 'monospace'}}}%%
+graph LR
+    CSV["📄 CSV Files"] -->|parse_csv| PAR["parser.py\n📄"]
+    PAR -->|raw DataFrame| DED["deduplicator.py\n🔁"]
+    DED -->|clean DataFrame| CAT["categorizer.py\n🏷️"]
+    CAT -->|+category +merchant| ANO["anomaly_detector.py\n🔍"]
+    ANO -->|+anomaly_flags| INS["insights.py\n🧠"]
+    ANO -->|+anomaly_flags| BUD["budget_tracker.py\n🎯"]
+    ANO -->|+anomaly_flags| FOR["forecaster.py\n🔮"]
+    ANO -->|+anomaly_flags| BEN["benchmarks.py\n📈"]
+    ANO -->|+anomaly_flags| AIA["ai_advisor.py\n🤖"]
+    INS & BUD & FOR & BEN & AIA -->|structured data| CHA["charts.py\n📉"]
+    CHA -->|Plotly figures| APP["app.py\n🖥️ Dashboard"]
+    GROQ["🟢 Groq API\nLlama 3.3 70B"] <-->|API call| AIA
 
-  <!-- Deduplicator -->
-  <rect x="240" y="216" width="150" height="55" rx="10" fill="#1a1a2e" stroke="#FFD93D" stroke-width="2"/>
-  <text x="315" y="240" text-anchor="middle" fill="#FFD93D" font-size="13" font-weight="bold">deduplicator.py</text>
-  <text x="315" y="257" text-anchor="middle" fill="#8A8AB0" font-size="9">Fuzzy match (RapidFuzz)</text>
-  <text x="315" y="269" text-anchor="middle" fill="#8A8AB0" font-size="9">Amount ±₹1, Date ±1 day</text>
+    style CSV fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style PAR fill:#1a2d1a,stroke:#4ECDC4,color:#4ECDC4
+    style DED fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style CAT fill:#2d1f1a,stroke:#FF9F43,color:#FFB673
+    style ANO fill:#2d1a1a,stroke:#FF6B6B,color:#FF9999
+    style INS fill:#1a1a2e,stroke:#A29BFE,color:#C4C0FF
+    style BUD fill:#1a2d1a,stroke:#4ECDC4,color:#4ECDC4
+    style FOR fill:#1a1a2d,stroke:#6C63FF,color:#A29BFE
+    style BEN fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style AIA fill:#1a2d22,stroke:#00A67E,color:#00D4A0
+    style CHA fill:#2d1f1a,stroke:#FF9F43,color:#FFB673
+    style APP fill:#6C63FF,stroke:#4ECDC4,stroke-width:3px,color:#fff
+    style GROQ fill:#1a2d22,stroke:#00A67E,color:#00D4A0,stroke-dasharray:5
+```
 
-  <!-- Arrow -->
-  <line x1="390" y1="244" x2="420" y2="244" stroke="#FFD93D" stroke-width="1.5" marker-end="url(#arrowYellow)"/>
+<br/>
 
-  <!-- Categorizer -->
-  <rect x="420" y="216" width="150" height="55" rx="10" fill="#1a1a2e" stroke="#FF9F43" stroke-width="2"/>
-  <text x="495" y="240" text-anchor="middle" fill="#FF9F43" font-size="13" font-weight="bold">categorizer.py</text>
-  <text x="495" y="257" text-anchor="middle" fill="#8A8AB0" font-size="9">Keyword reverse index</text>
-  <text x="495" y="269" text-anchor="middle" fill="#8A8AB0" font-size="9">12 categories, 300+ keywords</text>
+### 🔍 Anomaly Detection Logic
 
-  <!-- Arrow -->
-  <line x1="570" y1="244" x2="600" y2="244" stroke="#FF9F43" stroke-width="1.5" marker-end="url(#arrowRed)"/>
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#1a1a2e', 'primaryTextColor': '#E0E0F0', 'primaryBorderColor': '#FF6B6B', 'lineColor': '#FF6B6B', 'background': '#0f0f1a', 'mainBkg': '#1a1a2e', 'clusterBkg': '#111128', 'titleColor': '#E0E0F0', 'edgeLabelBackground': '#1a1a2e', 'fontFamily': 'monospace'}}}%%
+flowchart TD
+    TXN(["💳 Transaction\nEnters Pipeline"])
 
-  <!-- Anomaly -->
-  <rect x="600" y="216" width="230" height="55" rx="10" fill="#1a1a2e" stroke="#FF6B6B" stroke-width="2"/>
-  <text x="715" y="240" text-anchor="middle" fill="#FF6B6B" font-size="13" font-weight="bold">anomaly_detector.py</text>
-  <text x="715" y="257" text-anchor="middle" fill="#8A8AB0" font-size="9">Z-Score · IQR · Odd Hour · Round Num</text>
-  <text x="715" y="269" text-anchor="middle" fill="#8A8AB0" font-size="9">New Merchant · Frequency Spike</text>
+    TXN --> Z["Z-Score Check\n|z| > 2.5 threshold\n→ Globally unusual amount"]
+    TXN --> IQR["IQR per Category\nQ3 + 2×IQR upper fence\n→ Outlier in category"]
+    TXN --> OH["Odd Hour Check\n23:00 – 05:00 window\n→ Late-night impulse"]
+    TXN --> RN["Round Number\nAmount ≥ ₹5,000\n+ multiple of 500/1000"]
+    TXN --> NM["New Merchant\nFirst-ever transaction\nwith this vendor"]
+    TXN --> FS["Frequency Spike\nDaily count > 2.5×\naverage daily rate"]
 
-  <!-- ═══ LAYER 3: ANALYTICS ═══ -->
-  <line x1="430" y1="271" x2="430" y2="295" stroke="#FF6B6B" stroke-width="1.5" marker-end="url(#arrowRed)"/>
+    Z & IQR & OH & RN & NM & FS --> SCORE["🧮 Anomaly Score\nCount all flags fired\n0 = Clean"]
 
-  <rect x="20" y="304" width="820" height="22" rx="6" fill="rgba(255,107,107,0.1)" stroke="rgba(255,107,107,0.2)" stroke-width="1"/>
-  <text x="430" y="319" text-anchor="middle" fill="#FF6B6B" font-size="11" font-weight="bold">LAYER 3 — ANALYTICS ENGINES</text>
+    SCORE --> SEV{"Severity\nClassifier"}
+    SEV -->|score = 0| CLEAN["✅ Clean"]
+    SEV -->|score = 1| LOW["🟡 Low"]
+    SEV -->|score = 2| MED["🟠 Medium"]
+    SEV -->|score ≥ 3| HIGH["🔴 High"]
 
-  <rect x="30" y="334" width="150" height="55" rx="10" fill="#1a1a2e" stroke="#A29BFE" stroke-width="1.5"/>
-  <text x="105" y="356" text-anchor="middle" fill="#A29BFE" font-size="12" font-weight="bold">insights.py</text>
-  <text x="105" y="372" text-anchor="middle" fill="#8A8AB0" font-size="9">MoM trend · Subscriptions</text>
-  <text x="105" y="384" text-anchor="middle" fill="#8A8AB0" font-size="9">Savings · Velocity · Nudges</text>
+    style TXN fill:#6C63FF,stroke:#4ECDC4,color:#fff,stroke-width:2px
+    style Z fill:#1a1a2e,stroke:#FF6B6B,color:#FF9999
+    style IQR fill:#1a1a2e,stroke:#FF9F43,color:#FFB673
+    style OH fill:#1a1a2e,stroke:#A29BFE,color:#C4C0FF
+    style RN fill:#1a1a2e,stroke:#FFD93D,color:#FFE580
+    style NM fill:#1a1a2e,stroke:#4ECDC4,color:#4ECDC4
+    style FS fill:#1a1a2e,stroke:#FF6B6B,color:#FF9999
+    style SCORE fill:#16213e,stroke:#6C63FF,color:#A29BFE,stroke-width:2px
+    style SEV fill:#1a1a2e,stroke:#FFD93D,color:#FFE580
+    style CLEAN fill:#1a2d1a,stroke:#4ECDC4,color:#4ECDC4
+    style LOW fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style MED fill:#2d1f1a,stroke:#FF9F43,color:#FFB673
+    style HIGH fill:#2d1a1a,stroke:#FF6B6B,color:#FF6B6B
+```
 
-  <rect x="195" y="334" width="150" height="55" rx="10" fill="#1a1a2e" stroke="#6C63FF" stroke-width="1.5"/>
-  <text x="270" y="356" text-anchor="middle" fill="#6C63FF" font-size="12" font-weight="bold">budget_tracker.py</text>
-  <text x="270" y="372" text-anchor="middle" fill="#8A8AB0" font-size="9">Burn rate · Projections</text>
-  <text x="270" y="384" text-anchor="middle" fill="#8A8AB0" font-size="9">Breach alerts per category</text>
+<br/>
 
-  <rect x="360" y="334" width="150" height="55" rx="10" fill="#1a1a2e" stroke="#4ECDC4" stroke-width="1.5"/>
-  <text x="435" y="356" text-anchor="middle" fill="#4ECDC4" font-size="12" font-weight="bold">forecaster.py</text>
-  <text x="435" y="372" text-anchor="middle" fill="#8A8AB0" font-size="9">Auto-ARIMA → ETS → Linear</text>
-  <text x="435" y="384" text-anchor="middle" fill="#8A8AB0" font-size="9">80% confidence intervals</text>
+### 🔮 Forecasting Model Selection Logic
 
-  <rect x="525" y="334" width="150" height="55" rx="10" fill="#1a1a2e" stroke="#FFD93D" stroke-width="1.5"/>
-  <text x="600" y="356" text-anchor="middle" fill="#FFD93D" font-size="12" font-weight="bold">benchmarks.py</text>
-  <text x="600" y="372" text-anchor="middle" fill="#8A8AB0" font-size="9">Tier 1/2/3 peer data</text>
-  <text x="600" y="384" text-anchor="middle" fill="#8A8AB0" font-size="9">Low/Mid/High brackets</text>
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#1a1a2e', 'primaryTextColor': '#E0E0F0', 'primaryBorderColor': '#6C63FF', 'lineColor': '#6C63FF', 'background': '#0f0f1a', 'mainBkg': '#1a1a2e', 'clusterBkg': '#111128', 'titleColor': '#E0E0F0', 'fontFamily': 'monospace'}}}%%
+flowchart TD
+    CAT(["📂 Category\nSelected"])
+    CAT --> SERIES["📈 Build Monthly\nTime Series"]
+    SERIES --> CHK{How many\nmonths of data?}
 
-  <rect x="690" y="334" width="150" height="55" rx="10" fill="#1a1a2e" stroke="#00A67E" stroke-width="1.5"/>
-  <text x="765" y="356" text-anchor="middle" fill="#00A67E" font-size="12" font-weight="bold">ai_advisor.py</text>
-  <text x="765" y="372" text-anchor="middle" fill="#8A8AB0" font-size="9">Groq API · Llama 3.3 70B</text>
-  <text x="765" y="384" text-anchor="middle" fill="#8A8AB0" font-size="9">Multi-turn financial chat</text>
+    CHK -->|"≥ 4 months"| ARIMA["🔬 Auto-ARIMA\nAuto-selects p,d,q\nAIC optimized\nStepwise search"]
+    CHK -->|"3 months"| ETS["📊 Holt-Winters ETS\nExponential smoothing\nAdditive trend\nResidual std CI"]
+    CHK -->|"< 3 months"| LINEAR["📏 Linear Trend\nPolyfit degree 1\n±20% uncertainty band\nFallback guaranteed"]
 
-  <!-- ═══ LAYER 4: PRESENTATION ═══ -->
-  <line x1="430" y1="389" x2="430" y2="410" stroke="#A29BFE" stroke-width="1.5" marker-end="url(#arrowBlue)"/>
+    ARIMA --> FAIL{Model\nconverged?}
+    FAIL -->|Yes| OUT
+    FAIL -->|No| LINEAR
 
-  <rect x="20" y="418" width="820" height="22" rx="6" fill="rgba(162,155,254,0.1)" stroke="rgba(162,155,254,0.2)" stroke-width="1"/>
-  <text x="430" y="433" text-anchor="middle" fill="#A29BFE" font-size="11" font-weight="bold">LAYER 4 — PRESENTATION (charts.py + app.py)</text>
+    ETS --> OUT
+    LINEAR --> OUT
 
-  <!-- 10 dashboard pages -->
-  <rect x="30" y="450" width="76" height="65" rx="8" fill="#1a1a2e" stroke="rgba(108,99,255,0.4)" stroke-width="1"/>
-  <text x="68" y="476" text-anchor="middle" fill="#6C63FF" font-size="16">📊</text>
-  <text x="68" y="494" text-anchor="middle" fill="#E0E0F0" font-size="9">Overview</text>
-  <text x="68" y="508" text-anchor="middle" fill="#8A8AB0" font-size="8">KPIs + Charts</text>
+    OUT(["📦 Output\npoint · lower_80 · upper_80\ntrend · narrative · method"])
 
-  <rect x="118" y="450" width="76" height="65" rx="8" fill="#1a1a2e" stroke="rgba(78,205,196,0.4)" stroke-width="1"/>
-  <text x="156" y="476" text-anchor="middle" fill="#4ECDC4" font-size="16">🏷️</text>
-  <text x="156" y="494" text-anchor="middle" fill="#E0E0F0" font-size="9">Categories</text>
-  <text x="156" y="508" text-anchor="middle" fill="#8A8AB0" font-size="8">Breakdown</text>
-
-  <rect x="206" y="450" width="76" height="65" rx="8" fill="#1a1a2e" stroke="rgba(255,107,107,0.4)" stroke-width="1"/>
-  <text x="244" y="476" text-anchor="middle" fill="#FF6B6B" font-size="16">🔍</text>
-  <text x="244" y="494" text-anchor="middle" fill="#E0E0F0" font-size="9">Anomalies</text>
-  <text x="244" y="508" text-anchor="middle" fill="#8A8AB0" font-size="8">Scatter + Flags</text>
-
-  <rect x="294" y="450" width="76" height="65" rx="8" fill="#1a1a2e" stroke="rgba(255,159,67,0.4)" stroke-width="1"/>
-  <text x="332" y="476" text-anchor="middle" fill="#FF9F43" font-size="16">🧠</text>
-  <text x="332" y="494" text-anchor="middle" fill="#E0E0F0" font-size="9">Insights</text>
-  <text x="332" y="508" text-anchor="middle" fill="#8A8AB0" font-size="8">Nudges + Subs</text>
-
-  <rect x="382" y="450" width="76" height="65" rx="8" fill="#1a1a2e" stroke="rgba(108,99,255,0.4)" stroke-width="1"/>
-  <text x="420" y="476" text-anchor="middle" fill="#6C63FF" font-size="16">🎯</text>
-  <text x="420" y="494" text-anchor="middle" fill="#E0E0F0" font-size="9">Budget</text>
-  <text x="420" y="508" text-anchor="middle" fill="#8A8AB0" font-size="8">Goals + Alerts</text>
-
-  <rect x="470" y="450" width="76" height="65" rx="8" fill="#1a1a2e" stroke="rgba(78,205,196,0.4)" stroke-width="1"/>
-  <text x="508" y="476" text-anchor="middle" fill="#4ECDC4" font-size="16">🔮</text>
-  <text x="508" y="494" text-anchor="middle" fill="#E0E0F0" font-size="9">Forecast</text>
-  <text x="508" y="508" text-anchor="middle" fill="#8A8AB0" font-size="8">ARIMA Models</text>
-
-  <rect x="558" y="450" width="76" height="65" rx="8" fill="#1a1a2e" stroke="rgba(255,217,61,0.4)" stroke-width="1"/>
-  <text x="596" y="476" text-anchor="middle" fill="#FFD93D" font-size="16">🏦</text>
-  <text x="596" y="494" text-anchor="middle" fill="#E0E0F0" font-size="9">Multi-Acct</text>
-  <text x="596" y="508" text-anchor="middle" fill="#8A8AB0" font-size="8">Dedup Report</text>
-
-  <rect x="646" y="450" width="76" height="65" rx="8" fill="#1a1a2e" stroke="rgba(0,166,126,0.4)" stroke-width="1"/>
-  <text x="684" y="476" text-anchor="middle" fill="#00A67E" font-size="16">🤖</text>
-  <text x="684" y="494" text-anchor="middle" fill="#E0E0F0" font-size="9">AI Advisor</text>
-  <text x="684" y="508" text-anchor="middle" fill="#8A8AB0" font-size="8">Chat Interface</text>
-
-  <rect x="734" y="450" width="76" height="65" rx="8" fill="#1a1a2e" stroke="rgba(162,155,254,0.4)" stroke-width="1"/>
-  <text x="772" y="476" text-anchor="middle" fill="#A29BFE" font-size="16">📈</text>
-  <text x="772" y="494" text-anchor="middle" fill="#E0E0F0" font-size="9">Benchmarks</text>
-  <text x="772" y="508" text-anchor="middle" fill="#8A8AB0" font-size="8">Peer Compare</text>
-
-  <!-- Footer -->
-  <text x="430" y="546" text-anchor="middle" fill="rgba(108,99,255,0.5)" font-size="10">Click diagram → jumps to Problem Statement section above</text>
-</svg>
-</a>
-
-</div>
+    style CAT fill:#6C63FF,stroke:#4ECDC4,color:#fff
+    style SERIES fill:#1a1a2e,stroke:#A29BFE,color:#C4C0FF
+    style CHK fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style ARIMA fill:#1a2d1a,stroke:#4ECDC4,color:#4ECDC4
+    style ETS fill:#1a1a2d,stroke:#6C63FF,color:#A29BFE
+    style LINEAR fill:#2d1a1a,stroke:#FF6B6B,color:#FF9999
+    style FAIL fill:#2d2a1a,stroke:#FFD93D,color:#FFE580
+    style OUT fill:#16213e,stroke:#4ECDC4,stroke-width:2px,color:#4ECDC4
+```
 
 <br/>
 
@@ -525,92 +352,51 @@ FinTrack AI is a **fully local, open-source Streamlit dashboard** that transform
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Core Analytics
-- **Auto-categorization** into 12 spending categories using keyword reverse index
-- **Merchant extraction** with 30+ brand canonical name mappings
+- Auto-categorization into **12 spending categories** via keyword reverse index
+- Merchant extraction with **30+ brand canonical name** mappings
 - **Monthly trend** with MoM change line overlay
 - **Day-of-week heatmap** and weekend vs weekday split
-- **Spend calendar** — GitHub-style contribution heat map
-
-</td>
-<td width="50%">
-
-### 🔍 Anomaly Detection (6 methods)
-- **Z-Score** — globally unusual transaction amounts
-- **IQR per category** — outliers within each spend bucket
-- **Odd-hour** — transactions between 11 PM and 5 AM
-- **Round number** — suspicious round large amounts
-- **New merchant** — first-ever transaction with a vendor
-- **Frequency spike** — abnormally high-activity days
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+- **Spend calendar** — GitHub-style contribution heatmap
 
 ### 🎯 Budget Tracker
 - Set monthly ₹ limits per category via inline editor
-- Live **progress bars** with colour-coded status
-- **Burn-rate projection** — "At ₹450/day you'll exceed Food budget by ₹800 in 12 days"
-- Persists in `st.session_state` across navigation
+- Live **progress bars** with colour-coded status badges
+- **Burn-rate projection** — *"At ₹450/day you'll exceed Food budget by ₹800 in 12 days"*
+- Budget status persists in `st.session_state` across navigation
 - Grouped bar: Spent vs Projected vs Budget limit
 
+### 🏦 Multi-Account Deduplication
+- Upload CSVs from **GPay + PhonePe + bank** simultaneously
+- Detection: amount **±₹1**, date **±1 day**, description fuzzy score **≥72/100**
+- Keeps richer description, excludes the duplicate
+- Full dedup report: count removed, ₹ de-noised, source breakdown
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🔍 Anomaly Detection *(6 methods)*
+- **Z-Score** — globally unusual transaction amounts
+- **IQR per category** — outliers within each spend bucket
+- **Odd-hour** — transactions between 11 PM and 5 AM
+- **Round number** — suspicious large round amounts
+- **New merchant** — first-ever transaction with vendor
+- **Frequency spike** — abnormally high-activity days
 
 ### 🔮 Spend Forecasting
-- Auto-selects best model per category:
-  - **Auto-ARIMA** if ≥4 months history
-  - **Holt-Winters ETS** if ≥3 months
-  - **Linear trend** for sparse data
+- Auto-selects best model: **ARIMA → ETS → Linear**
 - **80% confidence intervals** rendered as error bars
-- Per-category sparklines showing history + forecast diamond
+- Per-category sparklines: history + forecast diamond
 - Total forecast narrative in plain English
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏦 Multi-Account Deduplication
-- Upload CSVs from GPay + PhonePe + bank simultaneously
-- Duplicate detection: amount **±₹1**, date **±1 day**, description fuzzy score **≥72/100**
-- Keeps richer description, marks other as excluded
-- Full dedup report: count removed, ₹ de-noised, sources breakdown
-
-</td>
-<td width="50%">
-
-### 🤖 AI Financial Advisor (Free)
-- Powered by **Groq API + Llama 3.3 70B** (no credit card needed)
-- Injects statistical summary as system context — not raw transactions
+### 🤖 AI Financial Advisor *(Free)*
+- **Groq API + Llama 3.3 70B** — no credit card needed
+- Injects statistical summary as context, not raw transactions
 - Multi-turn conversation with full history
 - 8 one-click starter question chips
 - Auto monthly financial health summary
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 Peer Benchmarking
-- Select **Tier 1 / 2 / 3** city and income bracket
-- Ratio chart: 1.0 = peer average, >1.5 = "Well above peers"
-- Research-based benchmarks from NSSO, RBI, Redseer/KPMG data
-- Savings rate vs peer benchmark comparison
-- Top 3 overspending and underspending category callouts
-
-</td>
-<td width="50%">
-
-### 🧠 Behavioral Insights
-- **Subscription detection** with monthly/annual cost projection
-- **Guilty pleasure merchant** — most frequent in impulsive categories
-- **Spend velocity** — daily / weekly / monthly burn rate
-- **Biggest MoM jump** — which month broke the bank and by how much
-- **Late-night spend count** — impulse risk indicator
 
 </td>
 </tr>
@@ -628,11 +414,11 @@ FinTrack AI is a **fully local, open-source Streamlit dashboard** that transform
 | **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ETL, aggregation, time-series |
 | **Visualization** | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) | All interactive charts |
 | **ML / Statistics** | ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | Z-score, IQR anomaly detection |
-| **Forecasting** | ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat-square) ![pmdarima](https://img.shields.io/badge/pmdarima-Auto--ARIMA-green?style=flat-square) | Time-series prediction |
-| **Fuzzy Matching** | ![RapidFuzz](https://img.shields.io/badge/RapidFuzz-Deduplication-orange?style=flat-square) | Transaction deduplication |
+| **Forecasting** | `statsmodels` + `pmdarima` | Auto-ARIMA · Holt-Winters ETS |
+| **Fuzzy Matching** | `rapidfuzz` | Transaction deduplication |
 | **AI / LLM** | ![Groq](https://img.shields.io/badge/Groq-Llama%203.3%2070B-00A67E?style=flat-square) | Free AI financial advisor |
 | **Language** | ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white) | Core runtime |
-| **Deployment** | ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-Deployed-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | Public hosting |
+| **Deployment** | ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | Public hosting |
 
 </div>
 
@@ -653,15 +439,16 @@ venv\Scripts\activate           # Windows
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Add your free Groq API key (for AI Advisor page)
-# Get free key at https://console.groq.com — no credit card needed
+# 4. Add your free Groq API key (only needed for AI Advisor page)
+#    Get your free key at https://console.groq.com — no credit card needed
+mkdir -p .streamlit
 echo 'GROQ_API_KEY = "gsk_your_key_here"' > .streamlit/secrets.toml
 
-# 5. Run the app
+# 5. Launch the app
 streamlit run app.py
 ```
 
-Open **http://localhost:8501** — check **"Use sample data"** in the sidebar for an instant demo.
+Open **http://localhost:8501** — tick **"Use sample data"** in the sidebar for an instant demo without uploading anything.
 
 <br/>
 
@@ -670,15 +457,16 @@ Open **http://localhost:8501** — check **"Use sample data"** in the sidebar fo
 ```
 fintrack-ai-upi-spend-analyzer/
 │
-├── 📄 app.py                         # Main Streamlit app — 10 pages, 1,278 lines
-├── 📋 requirements.txt               # All dependencies (no pinned versions)
-├── 📖 README.md                      # This file
+├── 📄 app.py                        # Main Streamlit dashboard — 10 pages
+├── 📋 requirements.txt              # Dependencies (flexible version bounds)
+├── 📖 README.md                     # This file
+├── 🐍 runtime.txt                   # python-3.12 (Streamlit Cloud pin)
 │
 ├── 🔐 .streamlit/
-│   └── secrets.toml                  # GROQ_API_KEY goes here (gitignored)
+│   └── secrets.toml                 # GROQ_API_KEY (gitignored)
 │
 ├── ⚙️ config/
-│   └── categories.json              # 12 categories · 300+ keywords · icons · colors
+│   └── categories.json              # 12 categories · 300+ keywords · icons · hex colors
 │
 ├── 🗃️ data/
 │   └── sample_transactions.csv      # 90 demo transactions across 3 months
@@ -690,10 +478,10 @@ fintrack-ai-upi-spend-analyzer/
     ├── anomaly_detector.py          # 6-method anomaly detection engine
     ├── insights.py                  # Behavioral patterns, nudges, subscriptions
     ├── charts.py                    # 8 Plotly chart builders (dark theme)
-    ├── budget_tracker.py            # Monthly budget goals + burn-rate projection
+    ├── budget_tracker.py            # Monthly goals + burn-rate projection
     ├── forecaster.py                # Auto-ARIMA / Holt-Winters ETS / Linear
     ├── deduplicator.py              # Fuzzy multi-account deduplication
-    ├── ai_advisor.py                # Groq API chat advisor (Llama 3.3 70B)
+    ├── ai_advisor.py                # Groq chat advisor (Llama 3.3 70B)
     └── benchmarks.py               # India city-tier peer comparison engine
 ```
 
@@ -705,44 +493,45 @@ fintrack-ai-upi-spend-analyzer/
 
 | UPI App | How to Export |
 |---------|--------------|
-| **Google Pay** | GPay app → Profile → Statement → Download |
-| **PhonePe** | PhonePe → History → Statement → Email CSV |
+| **Google Pay** | GPay app → Profile → Statement → Download CSV |
+| **PhonePe** | PhonePe → History → Download Statement → Email CSV |
 | **Paytm** | Paytm → Passbook → Download Statement |
 | **BHIM** | Transaction History → Export |
 | **Any Bank** | Any CSV with `Date`, `Description`, `Amount` columns |
 
-</div>
+**Minimum required columns:** `Date` · `Description` · `Amount`
 
-Minimum required columns: `Date` · `Description` · `Amount`
-Additional columns (`UPI ID`, `Balance`) are auto-detected if present.
+</div>
 
 <br/>
 
-## 🔒 Privacy
-
-<div align="center">
+## 🔒 Privacy First
 
 ```
 Your Data Never Leaves Your Machine
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  CSV Upload → Local Processing → Local Dashboard
-                    ↓
-         ONLY the AI Advisor page
-         sends a STATISTICAL SUMMARY
-         (totals, category names, averages)
-         to Groq API — never raw transactions
+  CSV Upload ──→ Local Processing ──→ Local Dashboard
+                        │
+                        ▼
+              ONLY the 🤖 AI Advisor page
+              sends a STATISTICAL SUMMARY
+              (category totals, averages, counts)
+              to Groq API
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              ❌ Raw transaction descriptions
+              ❌ Merchant names
+              ❌ Exact amounts
+              → are NEVER sent anywhere
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-
-</div>
 
 <br/>
 
-## ⚙️ Configuration
+## ⚙️ Configuration & Tuning
 
-**Add or modify spending categories** — edit `config/categories.json`:
+**Add or modify spending categories** in `config/categories.json`:
 ```json
 "My Category": {
   "keywords": ["merchant name", "keyword", "upi@handle"],
@@ -751,41 +540,42 @@ Your Data Never Leaves Your Machine
 }
 ```
 
-**Tune anomaly sensitivity** — edit `modules/anomaly_detector.py`:
+**Tune anomaly sensitivity** in `modules/anomaly_detector.py`:
 ```python
 Z_SCORE_THRESHOLD     = 2.5   # Lower = more anomalies flagged
-IQR_MULTIPLIER        = 2.0   # Lower = stricter per-category
-LARGE_ROUND_THRESHOLD = 5000  # Minimum ₹ for round-number flag
+IQR_MULTIPLIER        = 2.0   # Lower = stricter per-category outlier detection
+LARGE_ROUND_THRESHOLD = 5000  # Minimum ₹ for round-number flag to trigger
 ```
 
-**Tune deduplication strictness** — edit `modules/deduplicator.py`:
+**Tune deduplication strictness** in `modules/deduplicator.py`:
 ```python
-FUZZY_THRESHOLD  = 72   # 0–100, lower catches more duplicates
-DATE_WINDOW_DAYS = 1    # ±N days window
-AMOUNT_TOLERANCE = 1.0  # ₹ difference allowed
+FUZZY_THRESHOLD  = 72   # 0–100, lower catches more (riskier) duplicates
+DATE_WINDOW_DAYS = 1    # ±N days window for same transaction
+AMOUNT_TOLERANCE = 1.0  # ₹ difference allowed for amount match
 ```
 
 <br/>
 
 ## 🗺️ Roadmap
 
-- [ ] 📸 WhatsApp/Screenshot OCR parser (Tesseract)
-- [ ] 📄 PDF tax report export (80C investment summary)
+- [ ] 📸 WhatsApp/screenshot OCR parser using Tesseract
+- [ ] 📄 PDF tax summary — 80C investment auto-detection
 - [ ] 🔁 UPI ID network graph (NetworkX + Pyvis)
-- [ ] 📱 Progressive Web App (PWA) mode
-- [ ] 🔔 Budget breach email/WhatsApp alerts
+- [ ] 📱 Progressive Web App (PWA) mobile mode
+- [ ] 🔔 Budget breach WhatsApp / email alerts
 - [ ] 🏦 Live bank sync via Setu / Finbox AA APIs
+- [ ] 🌍 Multi-currency support for NRI users
 
 <br/>
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to open issues, suggest features, or submit pull requests.
+Contributions are very welcome!
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch — `git checkout -b feature/AmazingFeature`
+3. Commit your changes — `git commit -m 'Add AmazingFeature'`
+4. Push to the branch — `git push origin feature/AmazingFeature`
 5. Open a Pull Request
 
 <br/>
@@ -794,17 +584,18 @@ Contributions are welcome! Feel free to open issues, suggest features, or submit
 
 <div align="center">
 
-<!-- Bottom Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 <br/>
 
 **Built with ❤️ for India's 500M+ UPI users**
 
+<br/>
+
 [![Live Demo](https://img.shields.io/badge/🚀%20Try%20It%20Now-fintrack--ai--upi--spend--analyzer.streamlit.app-6C63FF?style=for-the-badge)](https://fintrack-ai-upi-spend-analyzer.streamlit.app/)
 
 <br/>
 
-*If this project helped you, please consider giving it a ⭐ on GitHub!*
+*If this project helped you, please give it a ⭐ — it means a lot!*
 
 </div>
